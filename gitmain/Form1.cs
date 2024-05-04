@@ -9,7 +9,7 @@ namespace gitmain
 
         private void button1_Click(object sender, EventArgs e)
         {
-            button1.ForeColor = Color.Blue;
+            button1.ForeColor = Color.Yellow;
 
         }
 
